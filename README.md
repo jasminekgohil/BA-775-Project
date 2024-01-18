@@ -8,10 +8,7 @@ Team members:
 -  Oumou Barry
 -  Priyanka Bharat Chaudhari
 
-
-Here's an improved version of the project description:
-
-Unveiling The Look's E-Commerce Secrets with SQL Alchemy:
+# Unveiling The Look's E-Commerce Secrets with SQL Alchemy:
 
 This project harnesses the power of SQL to unlock deep insights from TheLook's invaluable e-commerce data. We dive beyond the surface, exploring crucial areas like profitability, customer behavior, product performance, and operational efficiency.
 
